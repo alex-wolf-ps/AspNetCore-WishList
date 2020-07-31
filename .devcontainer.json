@@ -1,4 +1,6 @@
-"extensions": [
+{
+	"extensions": [
 		"ms-dotnettools.csharp",
-    "ms-azuretools.vscode-azureappservice"
+		"ms-azuretools.vscode-azureappservice"
 	]
+}
